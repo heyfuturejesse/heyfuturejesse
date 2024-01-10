@@ -3,7 +3,7 @@
 I've been learning Swift this year and it's been a blast!
 I've somehow released an app! You can see it here: https://apps.apple.com/au/app/starstream/id1671658258
 
-I'm currently learning Core Data by building a little personal CRM app. It's fun!
+I'm currently playing around with new iOS things for a new app. It's fun!
 
 I'm also a Product Manager at a B2B Start-up and the author behind a blog, Likely Story!
 
