@@ -1,6 +1,6 @@
 ### Hey! I'm JRuss! 👋
 
-B2B SaaS Product Manager turned iOS Developer! Building fun things and learning what I can as I go!
+I'm a Product manager with 10+ years in B2B SaaS; from startup through two acquisitions to Principal PM at Oracle NetSuite. These days I also design, build and ship my own apps!
 
 📱 Current Apps:
 - 🐙 [Octalect: Daily Trivia](https://apps.apple.com/au/app/octalect/id6759093115) is a daily trivia game. 8 Questions. 15 Seconds per question about the News, Sports, Pop Culture and general trivia.
